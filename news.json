@@ -1,0 +1,17 @@
+{
+    "news": [
+      {
+        "headline": "News Title 1",
+        "description": "This is the description of the first news article."
+      },
+      {
+        "headline": "News Title 2",
+        "description": "This is the description of the second news article."
+      },
+      {
+        "headline": "News Title 3",
+        "description": "This is the description of the third news article."
+      }
+    ]
+  }
+  
